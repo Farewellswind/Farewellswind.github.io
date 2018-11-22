@@ -15,4 +15,12 @@
     <url>%2F2018%2F11%2F22%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
+  <entry>
+    <title><![CDATA[Summary]]></title>
+    <url>%2F2018%2F11%2F20%2FSummary%2F</url>
+    <content type="text"><![CDATA[不知不觉，成为一个大学僧已经小半年了。但是扪心自问，我似乎又什么都没有做。半年的茫然，无所适从。++待续]]></content>
+      <tags>
+        <tag>方向 废话</tag>
+      </tags>
+  </entry>
 </search>
