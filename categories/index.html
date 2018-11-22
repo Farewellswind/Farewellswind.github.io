@@ -723,7 +723,7 @@
   
 
   
-    <script id="dsq-count-scr" src="https://Player.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="https://Farewellswind.disqus.com/count.js" async></script>
   
 
   
@@ -735,7 +735,7 @@
         };
       function loadComments () {
         var d = document, s = d.createElement('script');
-        s.src = 'https://Player.disqus.com/embed.js';
+        s.src = 'https://Farewellswind.disqus.com/embed.js';
         s.setAttribute('data-timestamp', '' + +new Date());
         (d.head || d.body).appendChild(s);
       }
@@ -808,15 +808,15 @@
     
 
     $(function() {
-      $.get('https://app-router.leancloud.cn/2/route?appId=' + "zoxV5aQz2qPSLMMkAoMnGF2T-gzGzoHsz")
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + "LgRrwu0i0owC4YYHpLBkMvCu-gzGzoHsz")
         .done(function ({ api_server }) {
           var Counter = function (method, url, data) {
             return $.ajax({
               method: method,
               url: `https://${api_server}/1.1${url}`,
               headers: {
-                'X-LC-Id': "zoxV5aQz2qPSLMMkAoMnGF2T-gzGzoHsz",
-                'X-LC-Key': "7ig7U8e6RogcS0nSpyKwkPcb",
+                'X-LC-Id': "LgRrwu0i0owC4YYHpLBkMvCu-gzGzoHsz",
+                'X-LC-Key': "nrk1ukjvMXQx00z2s8jlA0pJ",
                 'Content-Type': 'application/json',
               },
               data: data,
